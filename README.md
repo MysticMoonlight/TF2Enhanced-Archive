@@ -33,7 +33,7 @@ Because of that, the following projects will resume its development:
 
 ## Thank You
 We want to say thank you to every mod developers, project contributors for keeping the Team Fortress 2 alive.
-Huge thanks to Sloofy for your best contribution and keeping the archives alive before the project being removed.
+Huge thanks to [Sloofy](https://github.com/Sloofy) for your best contribution and keeping the archives alive before the project being removed.
 
 ## Note
 This repository includes the latest archives of Team Fortress 2: Enhanced. You are free to continue this project under the same name, if you do not care about the popularity and Valve's attitude towards community.
